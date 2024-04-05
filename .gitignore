@@ -1,0 +1,9 @@
+# arquivo de banco de dados local
+./src/database/db.json
+
+# dependencies
+/node_modules
+
+# gerenciador de pacotes
+yarn.lock
+package-lock.json
